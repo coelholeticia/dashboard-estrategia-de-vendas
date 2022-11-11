@@ -27,6 +27,6 @@ O que foi entregue:
 
 ![2022-11-11 (1)](https://user-images.githubusercontent.com/90153628/201426547-9505ba24-5c34-43c7-a845-7f149fcb38f2.png)
 
-### Dashboard
+### Dashboard: [Link para dashboard](https://app.powerbi.com/groups/me/reports/f8f61e38-e087-43da-a311-5d818daeb928?ctid=659ce2b8-0714-4198-8c38-dc9b60aabb57&pbi_source=linkShare)
 
 ![2022-11-11](https://user-images.githubusercontent.com/90153628/201426789-e456f75f-cc77-4563-8ab2-5e76e75737dc.png)
