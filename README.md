@@ -26,3 +26,7 @@ O que foi entregue:
 ### star schema 
 
 ![2022-11-11 (1)](https://user-images.githubusercontent.com/90153628/201426547-9505ba24-5c34-43c7-a845-7f149fcb38f2.png)
+
+### Dashboard
+
+![2022-11-11](https://user-images.githubusercontent.com/90153628/201426789-e456f75f-cc77-4563-8ab2-5e76e75737dc.png)
