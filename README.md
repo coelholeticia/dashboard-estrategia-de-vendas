@@ -8,7 +8,7 @@ O que foi pedido:
 > Analise e criação do gráfico
 
 #### Estudo 
-A empresa está montado a estrátegia de vendas para o próximo ano e precisa saber qual dos fabricantes dos produtos vendidos, apresenta melhor desempenho nas vendas. O objetivo é descartar os fabricantes cujos produtos possuem poucas vendas e tentar negociar melhores condições com os principais fabricantes.
+A empresa está montado a estratégia de vendas para o próximo ano e precisa saber qual dos fabricantes dos produtos vendidos, apresenta melhor desempenho nas vendas. O objetivo é descartar os fabricantes cujos produtos possuem poucas vendas e tentar negociar melhores condições com os principais fabricantes.
 
 O que foi entregue:
 > Star schema e dimensão no Power Bi 
@@ -21,7 +21,7 @@ O que foi entregue:
 
 > Total de vendas por segmento 
 
-> Seguemento com maior influencia no valor médio de vendas
+> Seguimento com maior influencia no valor médio de vendas
 
 ### star schema 
 
