@@ -22,3 +22,7 @@ O que foi entregue:
 > Total de vendas por segmento 
 
 > Seguemento com maior influencia no valor médio de vendas
+
+### star schema 
+
+![2022-11-11 (1)](https://user-images.githubusercontent.com/90153628/201426547-9505ba24-5c34-43c7-a845-7f149fcb38f2.png)
